@@ -48,7 +48,7 @@ We are going to solve this challenge by firstly isolating and looking only at th
     - Set the parameters as shown in the screenshot.
     - This rule will give us the content of the jsp page in the variable we specified so we can process it as required before responding to the browser.
 
-![](images/demo2.png)
+![](images/http-server-execute.png)
 
 6. **Search and replace the text:**
 
